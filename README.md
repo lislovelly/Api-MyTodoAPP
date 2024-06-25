@@ -4,32 +4,49 @@ MyTodoApp é uma aplicação web construída para gerenciar tarefas pessoais de 
 
 ## Características
 Autenticação de usuário: somente usuários autenticados podem acessar os recursos de tarefas.
+
 Operações CRUD: os usuários podem criar, exibir, atualizar e excluir seus itens de tarefas.
+
 Localização: O aplicativo suporta a localização em português do Brasil (pt-BR).
+
 Design Responsivo: O aplicativo usa Bootstrap para uma interface amigável para dispositivos móveis.
 
 ## Ferramentas e Tecnologias Utilizadas
 ASP.NET Core: Para construir o aplicativo Web.
+
 Entity Framework Core: Para operações de banco de dados.
+
 SQLite: Como o provedor de banco de dados.
+
 Bootstrap: para design de interface do usuário responsivo.
+
 Identidade: Para autenticação e gerenciamento de usuários.
 
 ## Uso da API
 Extremidade
 GET /Todo: retorna uma lista de todos os itens de tarefas para o usuário autenticado.
+
 GET /Todo/Details/{id}: retorna detalhes de um item de tarefa específico.
+
 GET /Todo/Create: retorna a página para criar um novo item de tarefa.
+
 POST /Todo/Create: Cria um novo item de tarefa.
+
 GET /Todo/Edit/{id}: retorna a página para editar um item de tarefa existente.
+
 POST /Todo/Edit/{id}: atualiza um item de tarefa existente.
+
 GET /Todo/Delete/{id}: retorna a página para confirmar a exclusão de um item de tarefa pendente.
+
 POST /Todo/Delete/{id}: exclui um item de tarefa pendente.
 
 ## Exemplo de uso
 Para criar um novo item de tarefa:
+
 Navegue até a página Criar: https://localhost:{PORT}/Todo/Create
+
 Preencha o formulário: Forneça o título e marque se for feito.
+
 Enviar o formulário: O item será criado e salvo no banco de dados.
 
 ## Desafios
