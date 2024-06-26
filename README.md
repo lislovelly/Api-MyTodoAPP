@@ -62,12 +62,16 @@ A implementação do suporte à localização para o português do Brasil exigiu
 ## Conclusão
 MyTodoApp é um aplicativo robusto e seguro para gerenciar tarefas pessoais. Ele mostra habilidades essenciais no desenvolvimento ASP.NET Core, incluindo autenticação de usuário, operações CRUD e design responsivo. Este projeto demonstra minha capacidade de criar aplicativos Web full-stack que são seguros, fáceis de usar e de fácil manutenção.
 
-Registro
-![Screenshot_1](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/4a6d9fb5-cb00-4491-a2c4-2022a3665423)
+Home
+![Screenshot_3](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/4908b391-b0be-49c9-bec6-10f5e2a079e3)
 
-Tarefa Criada
-![Screenshot_2](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/cf0899c9-a5de-4ce7-8407-b848462e2881)
+Login
+![Screenshot_4](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/e0c9c5ae-2f02-4f31-a50e-05317b7c38b9)
 
-Detalhes Tarefa
-![Screenshot_3](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/b6c9a5c4-2a4d-4dd1-a593-e8c100c67567)
+Tarefa criada
+![Screenshot_1](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/d3515a04-6789-41ac-bf17-3998cdcc5242)
+
+Detalhes tarefa
+![Screenshot_2](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/d4e39a80-f8ef-43c3-b6d5-cacf8c5d7c43)
+
 
