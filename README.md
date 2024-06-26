@@ -1,6 +1,8 @@
-# Api-MyTodoAPP
+# Como Criei Esta API
 
-MyTodoApp é uma aplicação web construída para gerenciar tarefas pessoais de forma eficiente. Ele permite que os usuários criem, leiam, atualizem e excluam (CRUD) seus itens de tarefas com segurança, garantindo que as tarefas de cada usuário sejam privadas e acessíveis apenas a eles.
+# MyTodoAPP
+
+MyTodoApp é uma aplicação web construída para gerenciar tarefas pessoais de forma eficiente. Ela permite que os usuários criem, leiam, atualizem e excluam (CRUD) seus itens de tarefas com segurança, garantindo que as tarefas de cada usuário sejam privadas e acessíveis apenas a eles.
 
 ## Características
 Autenticação de usuário: somente usuários autenticados podem acessar os recursos de tarefas.
