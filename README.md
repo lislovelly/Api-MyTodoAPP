@@ -24,6 +24,7 @@ Identidade: Para autenticação e gerenciamento de usuários.
 
 ## Uso da API
 Extremidade
+
 GET /Todo: retorna uma lista de todos os itens de tarefas para o usuário autenticado.
 
 GET /Todo/Details/{id}: retorna detalhes de um item de tarefa específico.
