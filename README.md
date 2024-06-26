@@ -43,9 +43,11 @@ POST /Todo/Delete/{id}: exclui um item de tarefa pendente.
 ## Exemplo de uso
 Para criar um novo item de tarefa:
 
-Navegue até a página Criar: https://localhost:{PORT}/Todo/Create
+Fazer o Registro
 
-Preencha o formulário: Forneça o título e marque se for feito.
+Clicar em Create New
+
+Preencher o formulário: Forneça o título e marque se for feito.
 
 Enviar o formulário: O item será criado e salvo no banco de dados.
 
@@ -60,7 +62,7 @@ O uso do Entity Framework Core com SQLite envolveu o gerenciamento de migraçõe
 A implementação do suporte à localização para o português do Brasil exigiu a configuração do middleware de localização de solicitações e a garantia de que todo o texto voltado para o usuário fosse traduzível.
 
 ## Conclusão
-MyTodoApp é um aplicativo robusto e seguro para gerenciar tarefas pessoais. Ele mostra habilidades essenciais no desenvolvimento ASP.NET Core, incluindo autenticação de usuário, operações CRUD e design responsivo. Este projeto demonstra minha capacidade de criar aplicativos Web full-stack que são seguros, fáceis de usar e de fácil manutenção.
+MyTodoApp é um aplicativo para gerenciar tarefas pessoais. Ele mostra habilidades essenciais no desenvolvimento ASP.NET Core, incluindo autenticação de usuário, operações CRUD e design responsivo. 
 
 Home
 ![Screenshot_3](https://github.com/lislovelly/Api-MyTodoAPP/assets/135989808/4908b391-b0be-49c9-bec6-10f5e2a079e3)
